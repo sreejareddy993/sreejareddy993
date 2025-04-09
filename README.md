@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👩‍💻 Sreeja Reddy
 
-<!--
-**sreejareddy993/sreejareddy993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Sreeja Reddy**, an aspiring Computer Science student with a passion for coding and problem-solving. I'm excited to learn, grow, and contribute to the tech community. I’m actively seeking opportunities to apply my skills and enhance them further in a dynamic tech environment.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: C, C++, Java, Python
+- **Data Structures & Algorithms**: Experienced with problem-solving using various algorithms and data structures.
+- **Soft Skills**: Analytical Thinking, Problem-Solving, Teamwork, Adaptability
+
+## 📬 Let's Connect
+
+I'm always open to connecting with like-minded individuals and exploring opportunities to learn and grow. Feel free to reach out to me!
+
+- LinkedIn:(https://www.linkedin.com/in/papaiahgari-sreeja-reddy-9b24ba307)
+- Email: (sreejareddy993@gmail.com)
+
+**Thank you for visiting my profile!** 🌟
